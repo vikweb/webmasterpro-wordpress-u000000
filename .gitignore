@@ -1,0 +1,10 @@
+
+/.idea
+/error_log
+/wp-config.php
+/wp-snapshots
+/wp-content/uploads/
+/wp-content/plugins/exchangers-monitor/curl_log.txt
+/wp-content/debug.log
+/wp-content/hidden-debug.log
+/wp-content/cache/
